@@ -1,0 +1,4 @@
+flask==2.2.5
+yt-dlp==2025.02.19
+requests==2.31.0
+Werkzeug==2.2.3
